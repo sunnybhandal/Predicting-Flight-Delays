@@ -13,3 +13,6 @@ Includes the process of the analysis. Starting with data exploration, we found v
 
 ### Exploratory Analysis
 Used Pandas and plotting function to find insight into the data.
+
+### Data Description
+Details the features found in the three tables used for analysis.
