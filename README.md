@@ -10,3 +10,6 @@ Includes the process of the analysis. Starting with data exploration, we found v
 - Linear Regression
 - Random Forest Regressor
 - XGBoost
+
+### Exploratory Analysis
+Used Pandas and plotting function to find insight into the data.
