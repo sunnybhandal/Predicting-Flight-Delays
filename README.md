@@ -1,18 +1,18 @@
 # Predicting-Flight-Delays
 
 ## Description
-This project was used to become more familiar with the reasons behind flight delays using supervised learning methods.
+This project was used to predict flight delays using supervised learning methods and NoSQL databases.
 
 ### Final Model
-Includes the process of the analysis. Starting with data exploration, we found valuable insights into the data that we later developed into features for testing.
+Includes the process of the analysis. Starting with data exploration, we found valuable insights into the data that we later developed into features for testing. Visuals were creating using Tableau and Matplotlib.
 
 ### Models
 - Linear Regression
 - Random Forest Regressor
 - XGBoost
 
-### Exploratory Analysis
-Used Pandas and plotting function to find insight into the data.
+### Programs and Packages
+Tableau, Python (Pandas, NumPy), PostgreSQL
 
 ### Data Description
 Details the features found in the three tables used for analysis.
