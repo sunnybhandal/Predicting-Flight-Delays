@@ -12,7 +12,7 @@ Includes the process of the analysis. Starting with data exploration, we found v
 - XGBoost
 
 ### Programs and Packages
-Tableau, Python (Pandas, NumPy), PostgreSQL
+Tableau, Python (Pandas, NumPy, Scikit-Learn), PostgreSQL
 
 ### Data Description
 Details the features found in the three tables used for analysis.
