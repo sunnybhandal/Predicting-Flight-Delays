@@ -15,4 +15,4 @@ Includes the process of the analysis. Starting with data exploration, we found v
 Tableau, Python (Pandas, NumPy, Scikit-Learn), PostgreSQL
 
 ### Data Description
-Details the features found in the three tables used for analysis.
+Details the features found in the three tables that are used for analysis.
